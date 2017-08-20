@@ -7,3 +7,6 @@ tooltipContent => HTMLNode - Customized Node for Tooltip rendering
 keyId => String - Unique Id for Chart SVG
 width => Integer - Width of the Chart Container
 height => Integer - Height of the Chart Container
+
+TODO:
+1. Add Label Content & Customized Label Content
