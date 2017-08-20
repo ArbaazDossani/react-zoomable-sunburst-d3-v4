@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "react-sunburst-d3-v4",
+        "raw": "react-zoomable-sunburst-d3-v4",
         "scope": null,
-        "escapedName": "react-sunburst-d3-v4",
-        "name": "react-sunburst-d3-v4",
+        "escapedName": "react-zoomable-sunburst-d3-v4",
+        "name": "react-zoomable-sunburst-d3-v4",
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
@@ -183,10 +183,10 @@
     "y18n": "3.2.1"
   },
   "_requested": {
-    "raw": "react-sunburst-d3-v4",
+    "raw": "react-zoomable-sunburst-d3-v4",
     "scope": null,
-    "escapedName": "react-sunburst-d3-v4",
-    "name": "react-sunburst-d3-v4",
+    "escapedName": "react-zoomable-sunburst-d3-v4",
+    "name": "react-zoomable-sunburst-d3-v4",
     "rawSpec": "",
     "spec": "latest",
     "type": "tag"
@@ -197,7 +197,7 @@
   "_resolved": "https://registry.npmjs.org/react-sunburst-d3-v4/-/react-sunburst-d3-v4-0.1.2.tgz",
   "_shasum": "fd6ce7ab5a239fe8435ff2ff39709b028aa45115",
   "_shrinkwrap": null,
-  "_spec": "react-sunburst-d3-v4",
+  "_spec": "react-zoomable-sunburst-d3-v4",
   "_where": "/Users/arbaazdossani/Documents/workspace/Code Management/ReactJS/sunburst-test",
   "author": {
     "name": "Arbaaz Dossani"
