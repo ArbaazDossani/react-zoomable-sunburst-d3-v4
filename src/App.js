@@ -15,7 +15,6 @@ class App extends Component {
           scale="linear" // or exponential
           tooltipContent={<div class="sunburstTooltip" style="position:absolute; color:'black'; z-index:10; background: #e2e2e2; padding: 5px; text-align: center;" />} // eslint-disable-line
           tooltip
-          label
           tooltipPosition="right"
           keyId="anagraph"
           width="480"

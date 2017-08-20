@@ -7,16 +7,12 @@ import * as utils from './utils';
  * data => JSON Array - Typically same for every Sunburst Chart *
  * scale => String - Options: linear | exponential - Linear renders each arc with same radii, Exponential reduces gradually by SquareRoot *
  * onSelect => Function - Called on Arc Click for re-rendering the chart and passing back to User as props *
- * label => Boolean - Display Label or not *
- * labelContent => HTMLNode - Customized Node for Label rendering *
  * tooltip => Boolean - Display Tooltip or not *
  * tooltipContent => HTMLNode - Customized Node for Tooltip rendering *
  * keyId => String - Unique Id for Chart SVG *
  * width => Integer - Width of the Chart Container *
  * height => Integer - Height of the Chart Container *
  */
-
-
 class Sunburst extends React.Component {
   componentDidMount() {
     this.renderSunburst(this.props);
