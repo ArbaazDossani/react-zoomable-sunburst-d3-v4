@@ -17,7 +17,7 @@
   "_id": "react-sunburst-d3-v4@0.1.2",
   "_inCache": true,
   "_location": "/react-sunburst-d3-v4",
-  "_nodeVersion": "0.0.3",
+  "_nodeVersion": "6.9.1",
   "_npmOperationalInternal": {
     "host": "s3://npm-registry-packages",
     "tmp": "tmp/react-sunburst-d3-v4-0.1.2.tgz_1503205441866_0.46402477100491524"
@@ -250,5 +250,5 @@
     "start": "react-scripts start",
     "test": "react-scripts test --env=jsdom"
   },
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
