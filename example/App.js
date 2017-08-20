@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Sunburst from './Sunburst';
+import Sunburst from 'react-sunburst-d3-v4';
 import data from './data';
 
 class App extends Component {

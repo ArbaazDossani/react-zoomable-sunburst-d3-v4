@@ -55,7 +55,7 @@ class Sunburst extends React.Component {
       }
       function click(d) { // eslint-disable-line
         node = d; // eslint-disable-line
-        self.props.onSelect(d);
+        self.props.onSelect && self.props.onSelect(d);
         svg.selectAll('path').transition().duration(1000).attrTween('d', arcTweenZoom(d));
       }
       const tooltipContent = self.props.tooltipContent;
