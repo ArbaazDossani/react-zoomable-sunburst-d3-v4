@@ -212,7 +212,7 @@
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10"
   },
-  "description": "Usage:",
+  "description": "Zoomable Sunburst React Component (D3 V4) with update functionality",
   "devDependencies": {},
   "directories": {},
   "dist": {
@@ -236,10 +236,9 @@
       "email": "arbaazdossani@gmail.com"
     }
   ],
-  "name": "react-sunburst-d3-v4",
+  "name": "react-zoomable-sunburst-d3-v4",
   "optionalDependencies": {},
   "private": false,
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ArbaazDossani/react-zoomable-sunburst-d3-v4.git"
@@ -250,5 +249,5 @@
     "start": "react-scripts start",
     "test": "react-scripts test --env=jsdom"
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
 }
