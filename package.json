@@ -1,6 +1,6 @@
 {
   "name": "react-sunburst-d3-v4",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "private": false,
   "dependencies": {
     "d3": "^4.10.0",
@@ -9,6 +9,23 @@
     "react-scripts": "1.0.10"
   },
   "homepage": "https://github.com/ArbaazDossani/react-zoomable-sunburst-d3-v4",
+  "author": "Arbaaz Dossani",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArbaazDossani/react-zoomable-sunburst-d3-v4"
+  },
+  "keywords": [
+    "react",
+    "sunburst",
+    "zoomable",
+    "tooltip",
+    "d3",
+    "v4"
+  ],
+  "bugs": {
+    "url": "https://github.com/ArbaazDossani/react-zoomable-sunburst-d3-v4/issues"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

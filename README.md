@@ -1,3 +1,8 @@
+
+Usage:
+
+npm i react-sunburst-d3-v4
+
 Sunburst Chart React Stateless Component with the following allowable Props =>
 data => JSON Array - Typically same for every Sunburst Chart
 scale => String - Options: linear | exponential - Linear renders each arc with same radii, Exponential reduces gradually by SquareRoot
