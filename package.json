@@ -1,13 +1,14 @@
 {
   "name": "react-sunburst-d3-v4",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "d3": "^4.10.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10"
   },
+  "homepage": "https://github.com/ArbaazDossani/react-zoomable-sunburst-d3-v4",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
