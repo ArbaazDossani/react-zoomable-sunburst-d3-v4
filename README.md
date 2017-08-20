@@ -42,7 +42,7 @@ class App extends Component {
 |    Property    | Type  |          Description          | Working |
 | -------------  | ----  |          -----------          | ------- |
 | data           | Array | Typically same for every Sunburst Chart | Yes |
-| scale          | String |Options: linear | exponential - Linear renders each arc with same radii, Exponential reduces gradually by SquareRoot | Yes |
+| scale          | String |Options: linear / exponential - Linear renders each arc with same radii, Exponential reduces gradually by SquareRoot | Yes |
 | tooltip | bool | Display Tooltip or not | Yes |
 | tooltipContent | HTMLNode | Customized Node for Tooltip rendering | Yes |
 | keyId | string | Unique Id for Chart SVG | Yes |
