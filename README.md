@@ -9,6 +9,8 @@ Sunburst component built with React. It is build upon D3 V4 and CRA
 ```bash
 npm i react-sunburst-d3-v4
 ```
+### Demo
+[![Watch the video](https://drive.google.com/file/d/0B8u1TA7r4bhEVGlCTTEzVHFheEU/view)](https://drive.google.com/file/d/0B8u1TA7r4bhEVGlCTTEzVHFheEU/view)
 
 ### Example
 
