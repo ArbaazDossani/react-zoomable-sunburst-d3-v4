@@ -57,6 +57,7 @@ class App extends Component {
 ###
 TODO:
 1. Add Label Content & Customized Label Content
+2. UI UX improvements
 
 
 ###
