@@ -58,7 +58,7 @@ class App extends Component {
 TODO:
 1. Add Label Content & Customized Label Content
 2. UI UX improvements
-
+3. Add Color and Label options from user input props
 
 ###
 Check out the Example folder for Customized Usage
