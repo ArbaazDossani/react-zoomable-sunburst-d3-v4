@@ -59,6 +59,8 @@ TODO:
 1. Add Label Content & Customized Label Content
 2. UI UX improvements
 3. Add Color and Label options from user input props
+4. Smooth animation on Click
+5. Bar charte line chart, pie chart, multiple line graphs
 
 ###
 Check out the Example folder for Customized Usage
