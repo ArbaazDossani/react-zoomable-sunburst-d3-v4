@@ -61,6 +61,7 @@ TODO:
 3. Add Color and Label options from user input props
 4. Smooth animation on Click
 5. D3 Bar Charts Addition
+6. Bar charte line chart, pie chart, multiple line graphs
 
 ###
 Check out the Example folder for Customized Usage
