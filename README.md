@@ -60,6 +60,7 @@ TODO:
 2. UI UX improvements
 3. Add Color and Label options from user input props
 4. Smooth animation on Click
+5. D3 Bar Charts Addition
 
 ###
 Check out the Example folder for Customized Usage
